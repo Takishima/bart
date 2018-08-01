@@ -29,6 +29,8 @@
 #include <stdarg.h>
 #include <stdbool.h>
 
+#define _Bool bool
+
 #include <algorithm>
 #include <string>
 #include <vector>
